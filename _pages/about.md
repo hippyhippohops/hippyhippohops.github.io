@@ -19,7 +19,7 @@ Some Projects:
 
 The usual warning holds: many of these documents have not been proofread, so there’s a chance they contain mistakes. Caveat lector! Please send me an email if you have any comments.
 
-* [A Conjecture for the Eigenvalues of pseudo-Anosov Mappings of Surfaces](hippyhippohops.github.io\files\U1840271K_Final_FYP.pdf): Building a python program to test the lower bound of the supremum of the set of virtual spectral homological radius, ranging over all finite type covers of the once-punctured torus, using the hyperbolic volume of mapping torus with respect to any pseudo-Anosov function. The code have verified that the bound works for up to 8-sheeted covers. The code has been uploaded to my GitHub page.
+* [A Conjecture for the Eigenvalues of pseudo-Anosov Mappings of Surfaces](hippyhippohops.github.io/files/U1840271K_Final_FYP.pdf): Building a python program to test the lower bound of the supremum of the set of virtual spectral homological radius, ranging over all finite type covers of the once-punctured torus, using the hyperbolic volume of mapping torus with respect to any pseudo-Anosov function. The code have verified that the bound works for up to 8-sheeted covers. The code has been uploaded to my GitHub page.
 
 ----------------------------------------------------------------------------------------------------
 

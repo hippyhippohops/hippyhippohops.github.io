@@ -25,6 +25,6 @@ The usual warning holds: many of these documents have not been proofread, so the
 
 Notes:
 
-* [Thurston's Construction of pseudo-Anosov Maps](hippyhippohops.github.io\files\Thurston__Construction_Presentation (1).pdf)
-* [Introduction to Measured Foliations](hippyhippohops.github.io\files\Measured_Foliations.pdf)
+* [Thurston's Construction of pseudo-Anosov Maps](hippyhippohops.github.io/files/Thurston__Construction_Presentation (1).pdf)
+* [Introduction to Measured Foliations](hippyhippohops.github.io/files/Measured_Foliations.pdf)
 

@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "tutoring"
+title: "Tutoring"
 permalink: /tutoring/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+I have been conducting tuition as a private tutor for the last 4 years, mainly focusing on mathematics. I have taught a wide degree of students, ranging from primary 3 to those sitting for A levels H2 and H1 mathematics. Other than just the MOE syllabus, I have also taught students sitting for the IB HL & SL mathematics papers. Below are some of the feedbacks/reviews I have gotten over the years.
+
+
 
 * Zander
 	* I was failing in my math and my dad asked my neighbor's son, who is aravinth, for help. He 						was very thorough and took careful measures in helping me grasp concepts that I had forgotten. He made me really think about how I would come up with the answer. I liked how he was straight forward and to the point. Great tutor that helped me so much! Thank you.
@@ -41,7 +45,11 @@ redirect_from:
 	* The tutor is very dedicated and motivating. My son likes him a lot and they get along well.
 * Avinash & Akash
 	* My sons get along well with Aravinth. They feel the tutor can help clarify their doubts and explain the text clearly. Aravinth is also well-versed in the subject and I am pleased with my sons’ math results. My sons also found Aravinth more effective than any previous tutors.
-* Some feedback from my calculus I recitation Class
+
+-----------------------------------------------------------------------------------------------------
+Some feedback from my graduate teaching assistantship:
+
+* Fall 2022 Math 220-Analytic Geometry & Calculus I
 	* You do a great job breaking down each problem. I think that a clear step by step process that is well explained for each question as well as using organized note structure.
 	*  I liked the handout of the procedure of the problems we worked out in class and how you did the problems fresh instead of just copying what you had on the paper. It gave insight into how to think about certain problems and it proved useful on homework. It was a great recitation!
 	* I believe recitations went very well especially for his first class as a teacher. He had notes prepared for us every class and was willing to send us notes when we were unable to make it. He had a different teaching style than Dr. Li which helped a lot when I did not understand the first time. Thank You!!

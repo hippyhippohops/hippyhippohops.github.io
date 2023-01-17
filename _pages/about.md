@@ -24,6 +24,9 @@ Teaching:
 
 * In Fall 2022, I taught MATH220-Analytic Geometry & Calculus. [Here](/files/1-combined_1.pdf) are the handouts I handed out to my recitation. 
 
+* In Spring 2022, I will also be teaching MATH220-Analytic Geometry & Calculus. The notes will mostly be similar to that of Fall 2022. Any additional notes or changes will be updated here. 
+	* Some review materials for week 1: [Review Notes](/files/ws1 (3).pdf)
+
 ----------------------------------------------------------------------------------------------------
 Notes:
 

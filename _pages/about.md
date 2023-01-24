@@ -26,8 +26,8 @@ Teaching:
 
 * In Spring 2022, I will also be teaching MATH220-Analytic Geometry & Calculus. The notes will mostly be similar to that of Fall 2022. Any additional notes or changes will be updated here. 
 	* Some review materials for week 1: [Review Notes](/files/ws1 (3).pdf)
-	* Introduction to Limits of a function: [Introduction to Limits of a function](/files/whw1.pdf)
-	* Limit Laws, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem:[Limit Lars, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem](/files/whw2.pdf) 
+	* Introduction to Limits of a function: [Introduction to Limits of a function](/files/wk1.pdf)
+	* Limit Laws, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem:[Limit Laws, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem](/files/whw2.pdf) 
 
 ----------------------------------------------------------------------------------------------------
 Notes:

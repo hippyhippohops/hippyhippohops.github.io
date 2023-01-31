@@ -28,6 +28,7 @@ Teaching:
 	* Some review materials for week 1: [Review Notes](/files/ws1 (3).pdf)
 	* Introduction to Limits of a function: [Introduction to Limits of a function](/files/wk1.pdf)
 	* Limit Laws, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem:[Limit Laws, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem](/files/calculuswhw2.2.pdf) 
+	* Defining the Derivative: [Defining the Derivative](/files/whw3.pdf)
 
 ----------------------------------------------------------------------------------------------------
 Notes:

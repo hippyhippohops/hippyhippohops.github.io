@@ -29,6 +29,7 @@ Teaching:
 	* Introduction to Limits of a function: [Introduction to Limits of a function](/files/wk1.pdf)
 	* Limit Laws, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem:[Limit Laws, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem](/files/calculuswhw2.2.pdf) 
 	* Defining the Derivative: [Defining the Derivative](/files/whw3.pdf)
+	* The Derivative as a function & Differentiation Rules: [The Derivative as a function & Differentiation Rules](/files/Calculus Week 4.pdf)
 
 ----------------------------------------------------------------------------------------------------
 Notes:

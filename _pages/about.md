@@ -30,6 +30,8 @@ Teaching:
 	* Limit Laws, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem:[Limit Laws, Algebraic Tricks, Continuity, Squeeze Theorem and Intermediate Value Theorem](/files/calculuswhw2.2.pdf) 
 	* Defining the Derivative: [Defining the Derivative](/files/whw3.pdf)
 	* The Derivative as a function & Differentiation Rules: [The Derivative as a function & Differentiation Rules](/files/Calculus Week 4.pdf)
+	* Derivatives as Rate of Change, Derivatives of Trig Functions & The Chain Rule: [Derivatives as Rate of Change, Derivatives of Trig Functions & The Chain Rule](/files/whw5.pdf)
+	* Derivative of Inverse Functions, Implicit Differentiation & Differentiation of Exponential and Logarithmic Functions: [Derivative of Inverse Functions, Implicit Differentiation & Differentiation of Exponential and Logarithmic Functions](/files/whw6 (1).pdf)
 
 ----------------------------------------------------------------------------------------------------
 Notes:

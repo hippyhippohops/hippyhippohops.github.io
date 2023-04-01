@@ -36,7 +36,7 @@ Teaching:
 ----------------------------------------------------------------------------------------------------
 Notes on Talks I have given:
 
-* [When does Pooled Sampling Save Money? - An Introduction to Mathematical Modelling - March 2023](/files/An_Introduction_to_Modelling_Pooled_Sample_Testing (1).pdf)
+* [When does Pooled Sampling Save Money? - An Introduction to Mathematical Modelling - March 2023](files/An_Introduction_to_Modelling_Pooled_Sample_Testing (1).pdf)
 * [An Introduction to Tropical Geometry - Jan 2023](files/Presentation on Tropical Geometry.pdf)
 * [Thurston's Construction of pseudo-Anosov Maps - April 2022](files/Thurston__Construction_Presentation (1).pdf) 
 * [Introduction to Measured Foliations - April 2022](/files/Measured_Foliations.pdf)

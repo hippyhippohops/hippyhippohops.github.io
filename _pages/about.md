@@ -42,5 +42,6 @@ Notes on Talks I have given:
 * [Introduction to Measured Foliations - April 2022](/files/Measured_Foliations.pdf)
 * [Introduction to Symplectic Manifolds - April 2022](/files/An Introduction to Symplectic Manifolds.pdf)
 * [Introduction to Projective Representations - Nov 2021](/files/Introduction to Projective Representations.pdf)
+* [The Mahler Measure in the Fuglede-Kadison Determinant - May 2020](/files/Ureca_Project (1).pdf)
 
 

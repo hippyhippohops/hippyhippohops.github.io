@@ -34,8 +34,13 @@ Teaching:
 	* Derivative of Inverse Functions, Implicit Differentiation & Differentiation of Exponential and Logarithmic Functions: [Derivative of Inverse Functions, Implicit Differentiation & Differentiation of Exponential and Logarithmic Functions](/files/whw6 (1).pdf)
 
 ----------------------------------------------------------------------------------------------------
-Notes:
+Notes on Talks I have given:
 
-* [Thurston's Construction of pseudo-Anosov Maps](files/Thurston__Construction_Presentation (1).pdf)
-* [Introduction to Measured Foliations](/files/Measured_Foliations.pdf)
+* [When does Pooled Sampling Save Money? - An Introduction to Mathematical Modelling - March 2023](/files/An_Introduction_to_Modelling_Pooled_Sample_Testing (1))
+* [An Introduction to Tropical Geometry - Jan 2023](files/Presentation on Tropical Geometry.pdf)
+* [Thurston's Construction of pseudo-Anosov Maps - April 2022](files/Thurston__Construction_Presentation (1).pdf) 
+* [Introduction to Measured Foliations - April 2022](/files/Measured_Foliations.pdf)
+* [Introduction to Symplectic Manifolds - April 2022](/files/An Introduction to Symplectic Manifolds.pdf)
+* [Introduction to Projective Representations - Nov 2021](/files/Introduction to Projective Representations.pdf)
+
 

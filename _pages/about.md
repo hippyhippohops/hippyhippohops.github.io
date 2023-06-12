@@ -36,11 +36,11 @@ Teaching:
 ----------------------------------------------------------------------------------------------------
 Notes on Talks I have given:
 
-* [2-Dimensional Topological Quantum Field Theory - April 2023](files/Cobordism, Frobenius Algebras & 2D TQFT.pdf) - This talk was given in the KSU Junior M Seminar introducing cobordism theory, Frobenius algebra and 2D TQFT. The goal of the talk was to arrive at the equivalence of the symmetric monodial categories, 2D TQFT over field K and the commutative Frobenius Algebra, which was not reached. But I guess this set of notes can serve as a nice introductions to some of the concepts here. This was mostly inspired by Joachim Kock's Frobenius Algebra and 2D TQFT. 
-* [An Introduction to Tropical Geometry - Jan 2023](files/Presentation on Tropical Geometry.pdf) - This talk was given in the KSU Junior M Seminar introducing chapter 1 section 1 of Mark Gross's Tropical Geometry and Mirror Symmetry as part of the series of talks for the semester. 
-* [Thurston's Construction of pseudo-Anosov Maps - April 2022](files/Thurston__Construction_Presentation (1).pdf) - In this article, I will be introducing Thurston’s Construction. We know that Nielsen-Thurston Classification tells us that given a surface Σ_g,n, with g, n ≥ 0, every mapping class f ∈ Mod(Σg,n) is periodic, reducible or pseudo-Anosov. Then, the question arises: given an arbitary mapping class f, what classification does it fall under? In this talk, I will talk about how Thurston’s construction addresses this question. 
-* [Introduction to Measured Foliations - April 2022](/files/Measured_Foliations.pdf) - In this talk, I introduced measured foliations of surfaces, setting the stage to talk about Thurston's constructions for the subsequent talk. 
-* [Introduction to Symplectic Manifolds - April 2022](/files/An Introduction to Symplectic Manifolds.pdf) - This was done as part of a presentation for a introduction to smooth manifolds course.
+* [2-Dimensional Topological Quantum Field Theory - April 2023](files/Cobordism, Frobenius Algebras & 2D TQFT.pdf) - This talk was given in the KSU Junior M Seminar introducing cobordism theory, Frobenius algebra and 2D TQFT. 
+* [An Introduction to Tropical Geometry - Jan 2023](files/Presentation on Tropical Geometry.pdf) - This talk was given in the KSU Junior M Seminar introducing chapter 1 section 1 of Mark Gross's Tropical Geometry and Mirror Symmetry.
+* [Thurston's Construction of pseudo-Anosov Maps - April 2022](files/Thurston__Construction_Presentation (1).pdf) - This talk was given at Nanyang Technological University.
+* [Introduction to Measured Foliations - April 2022](/files/Measured_Foliations.pdf) - This talk was given at Nanyang Technological University.
+* [Introduction to Symplectic Manifolds - April 2022](/files/An Introduction to Symplectic Manifolds.pdf) 
 * [Introduction to Projective Representations - Nov 2021](/files/Introduction to Projective Representations.pdf)
 * [Knot Invariants via Algebraic Topology & Functional Analysis - June 2020](/files/URECA_Draft_2 (1).pdf)
 

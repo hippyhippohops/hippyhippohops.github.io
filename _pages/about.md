@@ -20,7 +20,7 @@ The usual warning holds: There’s a chance that these documents below contain m
 
 * [A Conjecture for the Eigenvalues of pseudo-Anosov Mappings of Surfaces](files/U1840271K_Final_FYP.pdf): Built a python program to test the lower bound of the supremum of the set of virtual spectral homological radius, ranging over all finite type covers of the once-punctured torus, using the hyperbolic volume of mapping torus with respect to any pseudo-Anosov function. The code have verified that the bound works for up to 8-sheeted covers, and it can be located at my Github.
 
-* [Student Fromula](files/Student_Formula.pdf): This contains some of the statistical/ data analysis work that I do in the Powercats Motorsport Team, a student formula one team in Kansas State University. The code can be found in my GitHub.
+* [Student Formula](files/Student_Formula.pdf): This contains some of the statistical/ data analysis work that I do in the Powercats Motorsport Team, a student formula one team in Kansas State University. The code can be found in my GitHub.
 
 
 ----------------------------------------------------------------------------------------------------

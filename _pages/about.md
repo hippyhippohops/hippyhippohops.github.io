@@ -18,9 +18,11 @@ Some Projects:
 
 The usual warning holds: There’s a chance that these documents below contain mistakes. Caveat lector! Please send me an email if you have any comments.
 
+* [Neural Networks & Scientific Computing project related to Inverse Scattering Problems](https://github.com/hippyhippohops/Machine-Learning-and-Scientific-Computing-applied-to-Inverse-Scattering): This repository is a collection of all my rough notes and coding done over the course of my PhD. It will be a melting pot of different concepts I have learnt, ideas that I have played with and fun things I do on the side. In general, it will be my expository/reference on Deep Learning/Neural Networks and Machine Learning cencepts in general.  
+
 * [A Conjecture for the Eigenvalues of pseudo-Anosov Mappings of Surfaces](files/U1840271K_Final_FYP.pdf): Built a python program to test the lower bound of the supremum of the set of virtual spectral homological radius, ranging over all finite type covers of the once-punctured torus, using the hyperbolic volume of mapping torus with respect to any pseudo-Anosov function. The code have verified that the bound works for up to 8-sheeted covers, and it can be located at my Github.
 
-* [Student Formula](files/Student_Formula.pdf): This contains some of the statistical/ data analysis work that I do in the Powercats Motorsport Team, a student formula one team in Kansas State University. The code can be found in my GitHub.
+* [Student Formula](https://github.com/hippyhippohops/Student-Formula-Report): This repository contains the findings and the code I developed to perform statistical analysis and study the vehicular dynamics on the Bengal 2023. This is a document to keep track of the Bengal Data Analysis. The purpose of this is to keep track of my analysis and also showcase what I have done, and gathering what I have learnt from the data set. Here are the following scripts are what they do.
 
 
 ----------------------------------------------------------------------------------------------------

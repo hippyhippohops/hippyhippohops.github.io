@@ -14,7 +14,7 @@ Hello! I am currently a 3rd year PhD student at Kansas State University, where I
 ----------------------------------------------------------------------------------------------------
 Talks (future): 
 
-* Solving inverse source problems with a model-informed neural network
+* AMS 2025 Spring Central Sectional Meeting, University of Kansas - Solving inverse source problems with a model-informed neural network
 
 Talks (Past): 
 * 9th Annual Meeting of SIAM Central States Section, Kansas City, Missouri - [A model-informed neural network for solving inverse scattering problem](files/SIAM2024___Ara (9).pdf)

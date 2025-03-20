@@ -19,4 +19,8 @@ Talks (future):
 Talks (Past): 
 * 9th Annual Meeting of SIAM Central States Section, Kansas City, Missouri - [A model-informed neural network for solving inverse scattering problem](files/SIAM2024___Ara (9).pdf)
 
+----------------------------------------------------------------------------------------------------
+Notes: 
 
+* [Numerical methods for inverse source problems](files/QEII_Major_Exam_Slides (7).pdf)
+* [An Introduction to approximation theory in neural networks](files/QEII_Minor_Exam_Slides___Approximation_Theory (11).pdf)

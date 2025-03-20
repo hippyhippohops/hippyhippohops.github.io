@@ -12,7 +12,7 @@ Hello! I am currently a 3rd year PhD student at Kansas State University, where I
 * [CV](/files/My_CV (23).pdf)
 
 ----------------------------------------------------------------------------------------------------
-Talks (future): 
+Talks (Future): 
 
 * AMS 2025 Spring Central Sectional Meeting, University of Kansas - Solving inverse source problems with a model-informed neural network
 

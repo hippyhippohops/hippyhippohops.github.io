@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a 3rd year PhD student at Kansas State University, where I am fortunate to be advised by [Dinh-Liem Nguyen](http://sites.google.com/site/dinhliemnguyen/home) . My interest revolves around applying machine learning techniques to solve inverse problems. I also have interests in the mathematics of deep learning and more broadly, in statistical learning theory. In 2022, I graduated from Nanyang Technological University, Singapore, where I majored in pure mathematics. You can contact me at my email: arav0006[at]ksu[dot]edu. 
+Hello! I am currently a 3rd year PhD student at Kansas State University, where I am fortunate to be advised by [Dinh-Liem Nguyen](http://sites.google.com/site/dinhliemnguyen/home) . My interest revolves around applying machine learning techniques to solve inverse problems. I am also interested in the mathematical theory of deep learning. 
+
+In 2022, I graduated from Nanyang Technological University, Singapore, where I majored in pure mathematics. 
+
+You can contact me at my email: arav0006[at]ksu[dot]edu. 
 * [CV](/files/My_CV (23).pdf)
 
 ----------------------------------------------------------------------------------------------------

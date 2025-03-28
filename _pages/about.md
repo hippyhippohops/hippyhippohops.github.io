@@ -33,6 +33,6 @@ Misc slides/ notes:
 ----------------------------------------------------------------------------------------------------
 Programs attended: 
 
-* Applied Harmonic Analysis and Machine Learning Summer School, Universit‘a di Genova Genoa, Italy
+* Applied Harmonic Analysis and Machine Learning Summer School 2024, Universit‘a di Genova Genoa, Italy
 * OIST-Oxford-SLMath Summer School 2024, Okinawa Institute of Science and Technology, Japan
-* Statistical Learning Theory Crash Course, Università degli Studi di Genova, Italy
+* Statistical Learning Theory Crash Course 2024, Università degli Studi di Genova, Italy

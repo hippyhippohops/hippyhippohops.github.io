@@ -24,8 +24,15 @@ Talks (Past):
 * 9th Annual Meeting of SIAM Central States Section, Kansas City, Missouri - [A model-informed neural network for solving inverse scattering problem](files/SIAM2024___Ara (9).pdf)
 
 ----------------------------------------------------------------------------------------------------
-Misc: 
+Misc slides/ notes: 
 
 * Slides for qualifying examinations II (major): [Numerical methods for inverse source problems](files/QEII_Major_Exam_Slides (7).pdf)
 * Slides for qualifying examinations II (minor): [Some classical approximation results in deep learning](files/QEII_Minor_Exam_Slides___Approximation_Theory (11).pdf)
 * Undergraduate thesis: [A conjecture for the eigenvalues of pseudo-Anosov mappings of surfaces](https://hdl.handle.net/10356/156920)
+
+----------------------------------------------------------------------------------------------------
+Programs attended: 
+
+* Applied Harmonic Analysis and Machine Learning Summer School, Universit‘a di Genova Genoa, Italy
+* OIST-Oxford-SLMath Summer School 2024, Okinawa Institute of Science and Technology, Japan
+* Statistical Learning Theory Crash Course, Università degli Studi di Genova, Italy

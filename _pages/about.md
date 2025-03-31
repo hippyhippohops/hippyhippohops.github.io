@@ -18,6 +18,7 @@ You can contact me at my email: arav0006[at]ksu[dot]edu.
 ----------------------------------------------------------------------------------------------------
 Talks (Future): 
 
+* Applied Inverse Problems 2025, FGV EMAp, Rio De Janerio, Brazil (Poster presentation)
 * International Mathematics and Statistics Student Research Symposium 2025 (Virtual) - A Model-informed Deep Learning Algorithm for Solving Inverse Problems 
 
 Talks (Past): 

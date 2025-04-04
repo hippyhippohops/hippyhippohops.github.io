@@ -21,13 +21,13 @@ Talks (Future):
 * International Mathematics and Statistics Student Research Symposium 2025 (Virtual) - A Model-informed Deep Learning Algorithm for Solving Inverse Problems 
 
 Talks (Past): 
-* AMS 2025 Spring Central Sectional Meeting, University of Kansas - [A Model-Informed Deep Learning Algorithm for Solving Inverse Problems](files/AMS_Central_State_Sectional___Spring_2025 (1).pdf)
-* 9th Annual Meeting of SIAM Central States Section 2024, Kansas City, Missouri - [A model-informed neural network for solving inverse scattering problem](files/SIAM2024___Ara (9).pdf)
+* AMS 2025 Spring Central Sectional Meeting, University of Kansas - A Model-Informed Deep Learning Algorithm for Solving Inverse Problems
+* 9th Annual Meeting of SIAM Central States Section 2024, Kansas City, Missouri - A model-informed neural network for solving inverse scattering problem
 
 ----------------------------------------------------------------------------------------------------
 Misc slides/ notes: 
 
-* Slides for qualifying examinations II (major): [Numerical methods for inverse source problems](files/QEII_Major_Exam_Slides (7).pdf)
+* Slides for qualifying examinations II (major): Numerical methods for inverse source problems
 * Slides for qualifying examinations II (minor): [Some classical approximation results in deep learning](files/QEII_Minor_Exam_Slides___Approximation_Theory (11).pdf)
 * Undergraduate thesis: [A conjecture for the eigenvalues of pseudo-Anosov mappings of surfaces](https://hdl.handle.net/10356/156920)
 

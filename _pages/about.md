@@ -18,11 +18,11 @@ You can contact me at my email: arav0006[at]ksu[dot]edu.
 ----------------------------------------------------------------------------------------------------
 Talks (Future): 
 
-* International Mathematics and Statistics Student Research Symposium 2025 (Virtual) - A Model-informed Deep Learning Algorithm for Solving Inverse Problems 
+* International Mathematics and Statistics Student Research Symposium 2025 (Virtual) 
 
 Talks (Past): 
-* AMS 2025 Spring Central Sectional Meeting, University of Kansas - A Model-Informed Deep Learning Algorithm for Solving Inverse Problems
-* 9th Annual Meeting of SIAM Central States Section 2024, Kansas City, Missouri - A model-informed neural network for solving inverse scattering problem
+* AMS 2025 Spring Central Sectional Meeting, University of Kansas 
+* 9th Annual Meeting of SIAM Central States Section 2024, Kansas City, Missouri 
 
 ----------------------------------------------------------------------------------------------------
 Misc slides/ notes: 

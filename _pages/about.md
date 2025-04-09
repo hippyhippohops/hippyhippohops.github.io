@@ -17,7 +17,7 @@ You can contact me at my email: arav0006[at]ksu[dot]edu.
 
 ----------------------------------------------------------------------------------------------------
 Talks (Future): 
-
+* AI 4 X Conference 2025, National University of Singapore (NUS), Singapore
 * International Mathematics and Statistics Student Research Symposium 2025 (Virtual) 
 
 Talks (Past): 

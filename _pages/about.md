@@ -16,10 +16,7 @@ You can contact me at my email: arav0006[at]ksu[dot]edu.
 * [CV](/files/My_CV (23).pdf)
 
 ----------------------------------------------------------------------------------------------------
-Talks (Future): 
-* AI 4 X Conference 2025, National University of Singapore (NUS), Singapore
-
-Talks (Past): 
+Talks: 
 * International Mathematics and Statistics Student Research Symposium 2025 (Virtual) 
 * AMS 2025 Spring Central Sectional Meeting, University of Kansas 
 * 9th Annual Meeting of SIAM Central States Section 2024, Kansas City, Missouri 

@@ -17,7 +17,6 @@ You can contact me at my email: arav0006[at]ksu[dot]edu.
 
 ----------------------------------------------------------------------------------------------------
 Talks (Future): 
-* Applied Inverse Problems 2025, FGV EMAp, Rio de Janeiro, Brazil (Poster)
 * AI 4 X Conference 2025, National University of Singapore (NUS), Singapore
 
 Talks (Past): 

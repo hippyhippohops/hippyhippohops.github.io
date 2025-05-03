@@ -19,7 +19,8 @@ You can contact me at my email: arav0006[at]ksu[dot]edu.
 Talks: 
 * International Mathematics and Statistics Student Research Symposium 2025 (Virtual) 
 * AMS 2025 Spring Central Sectional Meeting, University of Kansas 
-* 9th Annual Meeting of SIAM Central States Section 2024, Kansas City, Missouri 
+* 9th Annual Meeting of SIAM Central States Section 2024, Kansas City, Missouri
+* Kansas Mathematics Graduate Student Conference Spring 2024, Kansas State University
 
 ----------------------------------------------------------------------------------------------------
 Misc slides/ notes: 

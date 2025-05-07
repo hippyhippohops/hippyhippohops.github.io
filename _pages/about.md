@@ -18,6 +18,7 @@ You can contact me at my email: arav0006[at]ksu[dot]edu.
 ----------------------------------------------------------------------------------------------------
 Talks (Future): 
 * Applied Inverse Problems (AIP) 2025, FGV EMAp, Rio de Janeiro, Brazil
+  
 Talks (Past): 
 * International Mathematics and Statistics Student Research Symposium 2025 (Virtual) 
 * AMS 2025 Spring Central Sectional Meeting, University of Kansas 

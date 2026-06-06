@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="en">
+
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -73,13 +74,19 @@
                 <!-- Slideshow Section -->
                 <td style="padding:2.5%;width:37%;max-width:37%;vertical-align:middle">
                   <div class="slideshow-container">
+
                     <img class="slide-photo active-slide"
+                         src="./data/photo1.jpg"
+                         alt="Aravinth Krishnan Ravi">
+
+                    <img class="slide-photo"
                          src="./data/malta%201.jpg"
                          alt="Aravinth presenting in Malta">
-                
+
                     <img class="slide-photo"
                          src="./data/malta%202.jpg"
                          alt="Aravinth presenting in Malta">
+
                   </div>
                 </td>
 
@@ -173,23 +180,29 @@
 
   <!-- Slideshow JavaScript -->
   <script>
-    let slideIndex = 0;
     const slides = document.getElementsByClassName("slide-photo");
 
-    function showSlides() {
+    function hideAllSlides() {
       for (let i = 0; i < slides.length; i++) {
         slides[i].classList.remove("active-slide");
       }
+    }
+
+    // Start with a random image every time the page loads.
+    let slideIndex = Math.floor(Math.random() * slides.length);
+
+    function showSlides() {
+      hideAllSlides();
+
+      slides[slideIndex].classList.add("active-slide");
 
       slideIndex++;
 
-      if (slideIndex > slides.length) {
-        slideIndex = 1;
+      if (slideIndex >= slides.length) {
+        slideIndex = 0;
       }
 
-      slides[slideIndex - 1].classList.add("active-slide");
-
-      setTimeout(showSlides, 3000);
+      setTimeout(showSlides, 3000); // Change photo every 3 seconds
     }
 
     showSlides();

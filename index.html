@@ -1,6 +1,5 @@
 <!DOCTYPE HTML>
 <html lang="en">
-
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -18,18 +17,18 @@
       max-width: 100%;
       position: relative;
       overflow: hidden;
-      border-radius: 12px;
+      border-radius: 10px;
     }
 
     .slide-photo {
       width: 100%;
-      height: 260px;
+      height: 280px;
       object-fit: cover;
       display: none;
-      border-radius: 12px;
+      border-radius: 10px;
     }
 
-    .active-slide {
+    .slide-photo.active {
       display: block;
     }
   </style>
@@ -41,7 +40,7 @@
       <tr style="padding:0px">
         <td style="padding:0px">
 
-          <!-- Header / Bio Section -->
+          <!-- Intro Section -->
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
               <tr style="padding:0px">
@@ -54,9 +53,12 @@
                   <p>
                     I'm a mathematics PhD student at Kansas State University, where I am fortunate to be advised by
                     <a href="https://sites.google.com/site/dinhliemnguyen/home">Dr. Dinh-Liem Nguyen</a>.
-                    I am broadly interested in developing neural network architectures to solve inverse problems arising from wave propagation.
-                    In 2022, I graduated from Nanyang Technological University, Singapore, where I majored in pure mathematics.
-                    <br><br>
+                    I am broadly interested in developing neural network architectures to solve inverse problems arising
+                    from wave propagation. In 2022, I graduated from Nanyang Technological University, Singapore,
+                    where I majored in pure mathematics.
+                  </p>
+
+                  <p>
                     I am currently a visiting scholar at Nanyang Technological University, working with
                     <a href="https://sites.google.com/view/ycsong-math/bio">Dr. Yongcun Song</a>
                     on optimization-informed neural networks.
@@ -67,26 +69,16 @@
                     <a href="data/AcademicCV_AravinthRavi_6June.pdf">CV</a> &nbsp;/&nbsp;
                     <a href="https://github.com/hippyhippohops">Github</a> &nbsp;/&nbsp;
                     <a href="https://www.linkedin.com/in/aravinth-krishnan-ravi-33b850aa/">LinkedIn</a> &nbsp;/&nbsp;
-                    <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=xwNT1v0AAAAJ/">Google Scholar</a>
+                    <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=xwNT1v0AAAAJ">Google Scholar</a>
                   </p>
                 </td>
 
-                <!-- Slideshow Section -->
+                <!-- Slideshow -->
                 <td style="padding:2.5%;width:37%;max-width:37%;vertical-align:middle">
                   <div class="slideshow-container">
-
-                    <img class="slide-photo active-slide"
-                         src="./data/photo1.jpg"
-                         alt="Aravinth Krishnan Ravi">
-
-                    <img class="slide-photo"
-                         src="./data/malta%201.jpg"
-                         alt="Aravinth presenting in Malta">
-
-                    <img class="slide-photo"
-                         src="./data/malta%202.jpg"
-                         alt="Aravinth presenting in Malta">
-
+                    <img class="slide-photo" src="data/malta%201.jpg" alt="Malta photo 1">
+                    <img class="slide-photo active" src="data/photo1.jpg" alt="Photo 1">
+                    <img class="slide-photo" src="data/malta%202.jpg" alt="Malta photo 2">
                   </div>
                 </td>
 
@@ -109,17 +101,17 @@
             </tbody>
           </table>
 
-          <!-- Mathematics of Deep Learning Blog Section -->
+          <!-- Blog Section -->
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
               <tr>
                 <td style="padding:16px;width:100%;vertical-align:middle">
                   <h2>Mathematics of Deep Learning Blog</h2>
                   <p>
-                    Through my study in applying deep learning techniques to solve inverse problems, I got intrigued
-                    in understanding how they work. Here, I will add notes on topics that I find interesting.
-                    Many of the documents will be made on the fly and will not be proofread, so there may be mistakes.
-                    Please send me an email if you have any comments.
+                    Through my study in applying deep learning techniques to solve inverse problems, I got intrigued in
+                    understanding how they work. Here, I will add notes on topics that I find interesting. Many of the
+                    documents will be made on the fly and will not be proofread, so there may be mistakes. Please send
+                    me an email if you have any comments.
                   </p>
 
                   <h3>Notes</h3>
@@ -128,10 +120,9 @@
                       <a href="data/QEII_Minor_Exam_Slides___Approximation_Theory (1).pdf" target="_blank">
                         <strong>Introductory Approximation Theory:</strong>
                       </a>
-                      For my minor exam, I chose an unorthodox topic: Approximation Theory.
-                      These slides detail some results, together with some pictures, from the first few sections of
-                      Matus Telgarsky’s excellent deep learning lecture notes.
-                      Last update: Dec 2024.
+                      For my minor exam, I chose an unorthodox topic: Approximation Theory. These slides detail some
+                      results, together with some pictures, from the first few sections of Matus Telgarsky’s excellent
+                      deep learning lecture notes. Last update: Dec 2024.
                     </li>
                   </ul>
                 </td>
@@ -146,12 +137,9 @@
                 <td style="padding:16px;width:100%;vertical-align:middle">
                   <h2>Teaching</h2>
                   <p>
-                    Spring Mathematical Modelling Seminar
-                    <br>
-                    Applied Matrix Theory
-                    <br>
+                    Spring Mathematical Modelling Seminar<br>
+                    Applied Matrix Theory<br>
                     Calculus I
-                    <br>
                   </p>
                 </td>
               </tr>
@@ -178,35 +166,18 @@
     </tbody>
   </table>
 
-  <!-- Slideshow JavaScript -->
   <script>
-    const slides = document.getElementsByClassName("slide-photo");
-
-    function hideAllSlides() {
-      for (let i = 0; i < slides.length; i++) {
-        slides[i].classList.remove("active-slide");
-      }
-    }
-
-    // Start with a random image every time the page loads.
-    let slideIndex = Math.floor(Math.random() * slides.length);
+    let slideIndex = 0;
+    const slides = document.querySelectorAll(".slide-photo");
 
     function showSlides() {
-      hideAllSlides();
-
-      slides[slideIndex].classList.add("active-slide");
-
-      slideIndex++;
-
-      if (slideIndex >= slides.length) {
-        slideIndex = 0;
-      }
-
-      setTimeout(showSlides, 3000); // Change photo every 3 seconds
+      slides.forEach(slide => slide.classList.remove("active"));
+      slides[slideIndex].classList.add("active");
+      slideIndex = (slideIndex + 1) % slides.length;
     }
 
     showSlides();
+    setInterval(showSlides, 3000); // change every 3 seconds
   </script>
-
 </body>
 </html>
